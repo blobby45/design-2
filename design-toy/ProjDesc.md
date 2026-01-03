@@ -58,9 +58,8 @@ Photos of the assembled toy, launcher mechanism, and disassembled components are
 [View prototype images](images/)
 
 ## Documentation
-📘 [Final Design Report (PDF)](docs/Final_Design_Report_-_Group_4.pdf)  
-📗 [Proposal Report (PDF)](docs/Proposal_Report_-_Group_4.pdf)
-
+📘 [Final Design Report (PDF)](docs/Final%20Design%20Report%20-%20Group%204.pdf)  
+📗 [Proposal Report (PDF)](docs/Proposal%20Report%20-%20Group%204.pdf)
 
 ## Skills Demonstrated
 
