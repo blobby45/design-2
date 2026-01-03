@@ -2,43 +2,43 @@
 
 ENGG*2100 Engineering Design Project
 
-Blaze Buster is a compact, spring-powered emergency response toy designed to fit entirely inside a Kinder™ Surprise capsule while demonstrating elastic potential energy → kinetic energy through play.
+The Blaze Buster is a compact, spring-powered emergency response toy designed to fit entirely inside a Kinder™ Surprise capsule while demonstrating elastic potential energy → kinetic energy through play.
 
 ## Overview
 
-Theme: Emergency Services
+* Theme: Emergency Services
 
-Target Age: 5+
+* Target Age: 5+
 
-Mechanism: Spring-powered projectile launcher
+* Mechanism: Spring-powered projectile launcher
 
-Design Tool: SolidWorks
+* Design Tool: SolidWorks
 
-Manufacturing: 3D-printed prototype
+* Manufacturing: 3D-printed prototype
 
-Assembly: Snap-fit, tool-free, no glue or adhesives involved
+* Assembly: Snap-fit, tool-free, no glue or adhesives involved
 
 ## Key Constraints
 
-Fits inside a 10 cm capsule when disassembled
+* Fits inside a 10 cm Kinder™ Surprise capsule when disassembled
 
-No tools, adhesives, or pre-made parts
+* No tools, adhesives, or pre-made parts
 
-≥75% 3D-printed components
+* ≥75% 3D-printed components
 
-Projectile range ≥2.5 m
+* Projectile range ≥2.5 m
 
-Child-safe and repeatable operation
+* Child-safe and repeatable operation
 
 All constraints were met.
 
 ## Design Highlights
 
-Spring-powered water cannon (≈42% spring compression)
+* Spring-powered water cannon (≈42% spring compression)
 
-Adjustable launch angles (15°, 30°, 45°, 60°)
+* Adjustable launch angles (15°, 30°, 45°, 60°)
 
-Modular snap-fit components
+* Modular snap-fit components
 
 * Oversized wheels for enhanced play value
 
