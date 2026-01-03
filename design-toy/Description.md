@@ -53,16 +53,14 @@ All constraints were met.
 ✔ Meets all ENGG*2100 requirements
 
 ## Prototype
+Photos of the assembled toy, launcher mechanism, and disassembled components are available here:
 
-Photos of the assembled toy, launcher mechanism, and disassembled components are available in:
-
-/images
+[View prototype images](images/)
 
 ## Documentation
+📘 [Final Design Report (PDF)](docs/Final_Design_Report.pdf)  
+📗 [Proposal Report (PDF)](docs/Proposal_Report.pdf)
 
-📘 Final Design Report → docs/Final_Design_Report.pdf
-
-📗 Proposal Report → docs/Proposal_Report.pdf
 
 ## Skills Demonstrated
 
